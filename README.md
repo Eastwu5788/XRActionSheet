@@ -1,7 +1,7 @@
 # XRActionSheet
 XRActionSheet是参考微信的ActionSheet仿写的一个轮子，使用方法简单。
 ##使用方法
-<code> <pre>
+<code><pre>
   //初始化
   XRActionSheet *actionSheet = [XRActionSheet actionSheetWithCancelTitle:@"取消" alertTitle:@"这是提示文字" SubTitles:@"点赞",@"举报", nil];
     
