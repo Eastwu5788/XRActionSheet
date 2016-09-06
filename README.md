@@ -1,7 +1,7 @@
 # XRActionSheet
 XRActionSheet是参考微信的ActionSheet仿写的一个轮子，使用方法简单。
 ##效果演示
-(/path/to/img.jpg)
+![](/path/to/img.jpg)
 ##使用方法
 <pre><code>
   //初始化
