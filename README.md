@@ -1,7 +1,11 @@
 # XRActionSheet
 XRActionSheet是参考微信的ActionSheet仿写的一个轮子，使用方法简单。
+
+
 ##效果演示
 ![](https://github.com/Eastwu5788/XRActionSheet/raw/master/demo.gif)
+
+
 ##使用方法
 <pre><code>
   //初始化
